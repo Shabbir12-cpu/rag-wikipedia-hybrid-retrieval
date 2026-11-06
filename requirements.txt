@@ -1,0 +1,15 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+transformers
+accelerate
+sentence-transformers
+faiss-cpu
+rank-bm25
+pymupdf
+streamlit>=1.40,<2
+requests
+numpy
+pandas
+matplotlib
+tqdm
+jupyter

@@ -1,0 +1,10 @@
+# Downloaded data, indexes and model files
+rag_ml_wikipedia/
+*.pdf
+*.index
+*.safetensors
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.env
